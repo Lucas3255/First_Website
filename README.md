@@ -1,8 +1,48 @@
-# Hello my dear programmer!!!
-print("""Esse diretório é reservado exclusivamente ao meu primeiro site. O site é sobre League of Legends,\n
-      um jogo multiplayer e no estilo MOBA(Multiplayer Online Battle Arena), na qual explica sobre o jogo no \n
-      geral, sobre tipos de personagem, itens, objetivos, mapa, entre outras coisas importantes sobre o game, \n
-      sendo similar a um blog.""")
+<h1>Meu Primeiro Site: League of Legends Blog</h1>
 
-print("""Obs: Na época que criei este projeto, ainda estava aprendendo sobre HTML e CSS, então existe vários \n
-      erros e códigos mal otimizadas, além de não existir um CSS responsive para outras plataformas.""")
+<div align="center">
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+</div>
+
+<p>Este repositório contém meu primeiro site desenvolvido, dedicado a League of Legends - um jogo multiplayer no estilo MOBA (Multiplayer Online Battle Arena).</p>
+
+<h3>🎮 Sobre o Projeto</h3>
+<p>Este site funciona como um blog informativo sobre League of Legends, abordando diversos aspectos do jogo:<br>
+      - Visão geral do jogo e sua jogabilidade.<br>
+      - Tipos de personagens (campeões).<br>
+      - Sistema de itens e builds.<br>
+      - Objetivos de jogo e estratégias.<br>
+      - Mapa e rotas.<br>
+      - Outras informações importantes sobre o game.</p>
+
+<h3>📱 Status do Projeto</h3>
+<p><strong>Nota importante:</strong> Este foi meu primeiro projeto web desenvolvido enquanto aprendia HTML e CSS. Como tal:<br>
+      - ⚠️ Contém vários erros e código não otimizado.<br>
+      - 📱 Não possui design responsivo para outras plataformas.<br>
+      - 🎓 Representa meu estágio inicial de aprendizado em desenvolvimento web.</p>
+
+<h3>🚀 Tecnologias Utilizadas</h3>
+<p>      - HTML5 - Estrutura do site.<br>
+      - CSS3 - Estilização e layout.</p>
+
+<h3>📝 Aprendizados</h3>
+<p>Este projeto representou meus primeiros passos no desenvolvimento web, onde aprendi:<br>
+      - Estrutura básica de HTML.<br>
+      - Estilização com CSS.<br>
+      - Organização de projetos web.<br>
+      - Criação de múltiplas páginas interligadas.</p>
+
+<h3>🤝 Contribuições</h3>
+<p>Como este é um projeto de aprendizado, sugestões e dicas são sempre bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.</p>
+
+<h3>📄 Licença</h3>
+<p>Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.</p>
+
+
+
+
+
