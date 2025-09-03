@@ -38,7 +38,7 @@
 
 <h3>🤝 Contribuições</h3>
 <p>Como este é um projeto de aprendizado, sugestões e dicas são sempre bem-vindas! Sinta-se à vontade para abrir 
-      issues ou pull requests.<br>      E-mail: lucasfaculdade2025@gmail.com</p>
+      issues ou pull requests.</p>
 
 <h3>📄 Licença</h3>
 <p>Este projeto está licenciado sob a 
@@ -49,3 +49,5 @@ veja o arquivo <a href="LICENSE" target="_blank">LICENSE</a> para detalhes.
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="Licença MIT">
 </a></p>
 
+<h3>👨‍💻 Autor</h3>
+<p>Lucas Henrique Dias - lucasfaculdade2025@gmail.com<br> LinkedIn: https://www.linkedin.com/in/lucas-henrique-dias-345666346/</p>
