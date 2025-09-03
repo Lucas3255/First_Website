@@ -37,12 +37,15 @@
       - Criação de múltiplas páginas interligadas.</p>
 
 <h3>🤝 Contribuições</h3>
-<p>Como este é um projeto de aprendizado, sugestões e dicas são sempre bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.</p>
+<p>Como este é um projeto de aprendizado, sugestões e dicas são sempre bem-vindas! Sinta-se à vontade para abrir 
+      issues ou pull requests.<br>      E-mail: lucasfaculdade2025@gmail.com</p>
 
 <h3>📄 Licença</h3>
-<p>Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.</p>
+<p>Este projeto está licenciado sob a 
+<a href="LICENSE" target="_blank">Licença MIT</a> - 
+veja o arquivo <a href="LICENSE" target="_blank">LICENSE</a> para detalhes.
 
-
-
-
+<a href="https://opensource.org/licenses/MIT" target="_blank">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="Licença MIT">
+</a></p>
 
